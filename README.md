@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📙 I'm currently studying for a master's degree in Harbin Engineering University.
+
 📜 I majored in autonomous underwater vehicle motion control.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevoutPrayer)](https://github.com/anuraghazra/github-readme-stats)
+
+#### *Languages and Libries:*
+C C++ python Qt Html js css Opencv FFMpeg 
+#### *Current learning:*
+tensorflow
