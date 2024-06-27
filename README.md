@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevoutPrayer)](https://github.com/anuraghazra/github-readme-stats)
 
-#### *Languages and Libries:*
-C C++ python Qt Html js css Opencv FFMpeg 
+#### *Languages and Libries Skills:*
+Languages: Java C C++ python 
+Libries:   Qt Opencv FFMpeg
 #### *Current learning:*
-tensorflow
+Rust
