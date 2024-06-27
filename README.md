@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📙 I'm currently studying for a master's degree in Harbin Engineering University.
+📙 I graduated from Harbin Engineering University with a master's degree.
 
 📜 I majored in autonomous underwater vehicle motion control.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevoutPrayer)](https://github.com/anuraghazra/github-readme-stats)
 
 #### *Languages and Libries Skills:*
-Languages: Java C C++ python 
-Libries:   Qt Opencv FFMpeg
+Java C C++ python Qt Opencv FFMpeg
 #### *Current learning:*
 Rust
